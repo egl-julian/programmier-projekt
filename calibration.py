@@ -1,7 +1,7 @@
 import numpy as np
 import cv2 as cv
 import glob 
-#test für git
+#ich hasse git hub und cedrik
 def setup():
     criteria = (cv.TERM_CRITERIA_EPS + cv.TERM_CRITERIA_MAX_ITER, 30, 0.001) # Kriterium zur Eckpunktfindung, entweder 30 Bilder oder Ergebniss ändert sich um weniger als 0.001 Pixel
 
